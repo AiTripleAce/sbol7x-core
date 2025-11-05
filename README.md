@@ -15,3 +15,8 @@ This repo publishes the test-run baseline data used in the first public infograp
 **Formula:**  Trust × Transparency = Velocity of Guidance
 
 ## Quick Demo
+→ Prints both runs and visualizes the delta bar graph.
+
+## License
+Open-reference / Creative Commons BY 4.0 for non-commercial use.  
+© 2025 Arklight AI Initiative – Providence-Driven Design

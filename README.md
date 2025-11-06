@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="SBOLLogoW.jpg" alt="SBOL Logo" width="300">
+</p>
+
+<p align="center">
+  <img src="SBOLfearVgudianceT.png" alt="AI Fear vs SBOL Guidance Loop" width="600">
+</p>
 🛰️ SBOL 7x — Securing the Blessings of Liberty
 
 Dynamic Guidance System • Drift Killer • Core AI Alignment Framework

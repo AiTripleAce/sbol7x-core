@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SBOLLogoW.jpg" alt="SBOL Logo" width="300">
+  <img src="SBOLlogoW.jpg" alt="SBOL Logo" width="300">
 </p>
 
 <p align="center">

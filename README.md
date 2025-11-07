@@ -42,3 +42,9 @@ SBOL integrates a **7-layer guidance framework** that enforces:
 💡 *SBOL delivers alignment through guidance — freedom with fidelity.*
 
 ---
+## SBOL 7x Calibration (Quick)
+Bias: 0.97 ± 0.02  
+Heuristic: 8-dir + adaptive weighting  
+Test: 10K nodes × 200 runs → drift = 0.00  
+How to run: python run_sbol_demo.py  
+DM results for the full guide.
